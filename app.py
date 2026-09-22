@@ -472,7 +472,7 @@ st.caption(
 
 claim = st.text_area(
     "Paste a headline, forwarded message, or claim:",
-    placeholder="e.g. 'holiday declared tomorrow for all schools in Kanpur'",
+    placeholder="write here",
     height=130,
 )
 

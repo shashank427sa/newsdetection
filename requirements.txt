@@ -1,7 +1,8 @@
-﻿streamlit
-pandas
+﻿pandas
+numpy
 scikit-learn
-requests
-wikipedia
-pyspellchecker
-beautifulsoup4
+matplotlib
+seaborn
+nltk
+joblib
+streamlit
